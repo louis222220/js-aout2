@@ -1,0 +1,22 @@
+{
+  "name": "js-aout2",
+  "version": "1.0.0",
+  "description": "Java Script example for art of unit testing 2nd",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "@types/jest": "^26.0.15",
+    "babel-jest": "^26.6.1",
+    "jest": "^26.6.1"
+  },
+  "keywords": [
+    "jest",
+    "testing",
+    "javascript"
+  ],
+  "author": "ralph (fc.nothung@gmail.com)",
+  "license": "ISC"
+}
